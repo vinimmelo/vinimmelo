@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimmelo&hide=html&layout=compact&theme=onedark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=vinimmelo&theme=onedark"/></td>
+    </tr>   
+</table>
+</center>  
 
 - 🔭 I’m currently working with Python and Javascript.
 - 💬 Ask me about Web Development, Python and Devops (yes, it is not a position, I know)
