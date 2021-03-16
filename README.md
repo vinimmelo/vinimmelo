@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinimmelo&repo=ruby-sample)](https://github.com/vinimmelo/ruby-sample)
 
 ### About Me
-- 🔭 I’m currently working with Python and Javascript.
-- 💬 Ask me about Web Development, Python, and DevOps (yes, it is not a position, I know)
+- 🔭 I’m currently working with Golang and Ruby 💎.
+- 💬 Ask me about Web Development, Golang, Python, and DevOps (yes, it is not a position, I know)
 - :computer: I have a blog too  :arrow_right:  [Vinícius Melo - Blog](https://vinimelo.dev)
 
 ### 📫 How to reach me:
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
   - :books: [Goodreads](https://www.goodreads.com/user/show/102894831-vinicius)
 
 ### ⚡ Fun Facts
-- :ping_pong: Love Table Tennis, a little rusty however
+- :ping_pong: Love Table Tennis
 - :swimmer: I like to swim whenever possible
-- :rice: I make a great risotto, I guarantee.
+- :rice: I make a great risotto, guaranteed.
