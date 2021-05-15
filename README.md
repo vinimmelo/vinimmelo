@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### About Me
 - 🔭 I’m currently working with Golang and Ruby 💎.
 - 💬 Ask me about Web Development, Golang, Python, and DevOps (yes, it is not a position, I know)
-- :computer: Follow me on twitter too  :arrow_right:  [Vinícius Melo - Twitter](https://twitter.com/vinimmelo)
+- :computer: I love to give classes and help others, talk to me if I can help you in any way 👨‍🎓.
 
 ### 📫 How to reach me:
   - <a href="https://github.com/vinimmelo/"><img src="https://github.com/vinimmelo/vinimmelo/blob/master/images/GitHub_Logo.png" width="40"></img></a>
