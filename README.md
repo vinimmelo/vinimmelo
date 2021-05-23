@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
   - <a href="https://github.com/vinimmelo/"><img src="https://github.com/vinimmelo/vinimmelo/blob/master/images/GitHub_Logo.png" width="40"></img></a>
-  - :mailbox: [Email](mailto:eu@vinimelo.dev)
+  - :mailbox: [Email](mailto:vinimmelo.dev@gmail.com)
   - <a href="https://www.linkedin.com/in/viniciusmmelo"><img src="https://github.com/vinimmelo/vinimmelo/blob/master/images/004-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/viniciusmmelo)  
   - <a href="https://twitter.com/vinimmelo"><img src="https://github.com/vinimmelo/vinimmelo/blob/master/images/007-twitter.png" width="16"></img></a> [Twitter](https://twitter.com/vinimmelo)  
   - :books: [Goodreads](https://www.goodreads.com/user/show/102894831-vinicius)
