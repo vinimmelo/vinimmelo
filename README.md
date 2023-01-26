@@ -40,8 +40,3 @@ Here are some ideas to get you started:
   - <a href="https://www.linkedin.com/in/viniciusmmelo"><img src="https://github.com/vinimmelo/vinimmelo/blob/master/images/004-linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/viniciusmmelo)  
   - <a href="https://twitter.com/vinimmelo"><img src="https://github.com/vinimmelo/vinimmelo/blob/master/images/007-twitter.png" width="16"></img></a> [Twitter](https://twitter.com/vinimmelo)  
   - :books: [Goodreads](https://www.goodreads.com/user/show/102894831-vinicius)
-
-### ⚡ Fun Facts
-- :ping_pong: Love Table Tennis
-- :swimmer: I like to swim whenever possible
-- :rice: I make a great risotto, guaranteed.
